@@ -1,7 +1,6 @@
 # agile
 Agile Methodologies Practice
 
-Author:Charles Bassinger
-Contributors:
-Contact:bassinger.c.f@gmail.com
+Author:Charles
+Contributors: Cody
 Date of Origin: 6.24.18
